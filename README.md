@@ -7,6 +7,7 @@ Python
 ## How to run 
 
 ### Server
+In the directory of the project, open terminal or console
 ``` 
 cd server
 python server.py {port_number}
@@ -16,6 +17,7 @@ python server.py {port_number}
 An example would be `python server.py 3000`
 
 ### Client
+In the directory of the project, open terminal or console
 ```
 cd client   
 python client.py {host_address} {port_number} {filename}
