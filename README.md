@@ -2,7 +2,8 @@
 
 This project was done for an assignment in the course COSC264 Introduction to Computer Networks and the Internet. 
 This project consists of a server and an client which uses TCP sockets.The server is a command line application and will operate as a TCP server. In the same folder of the server, there will be files which the client can request the server for, essentially downloading a file from the server. The client is a command line application and will operate as a TCP client. The client may request a file from the server by filename, and the server will send the file to the client. The requested file will end up in the same folder as the client.
-
+## Requirements
+Python
 ## How to run 
 
 ### Server
